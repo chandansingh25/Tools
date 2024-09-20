@@ -21,4 +21,7 @@ https://www.ui-layout.com/components/stacking-card
 // ALL Tools
 https://freesets.dev/
 
+// Tailwind components
+https://tailblocks.cc/
+
 
