@@ -24,4 +24,7 @@ https://freesets.dev/
 // Tailwind components
 https://tailblocks.cc/
 
+// Loader
+https://cssfx.netlify.app/
+
 
